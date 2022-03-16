@@ -1,0 +1,2 @@
+# SpiritsNCurrents
+Scrabble Game Project
