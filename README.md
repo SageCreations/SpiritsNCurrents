@@ -1,2 +1,2 @@
 # SpiritsNCurrents
-Scrabble Game Project
+Scrabble Game Project for GAME 1303
